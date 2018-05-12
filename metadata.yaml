@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/85
     wikipedia: http://en.wikipedia.org/wiki/Victor_Hugo
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29843#Les-contemplations--13-Autrefois-1830-1843
 gutenberg_bookshelf: FR Poésie
 gutenberg_issued: '2009-08-29'
 gutenberg_type: Text
